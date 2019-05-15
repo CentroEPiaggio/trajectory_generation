@@ -1,0 +1,6 @@
+geometry_msgs/Point[] pos_way_points
+geometry_msgs/Quaternion[] or_way_points
+float64 time
+float64 Ts
+---
+geometry_msgs/Pose[] trajectory
